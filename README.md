@@ -8,7 +8,7 @@ __The report is consisted of six parts:__
 1. [Data exploration and processing](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/01_data_processing.ipynb)
 2. [Geo data visualization](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/02_geodata_processing.ipynb)
 3. [Complex seasonal forecasting](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/03_complex_seasonal_forecasting.ipynb)
-4. [Model building](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/04_all_regions_forecasting.ipynb)
+4. [Model evaluation](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/04_all_regions_forecasting.ipynb)
 5. [Model implementation](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/05_regression_for_forecasting.ipynb)
 6. [Model enhancement](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/06_new_features_forming.ipynb)
 
