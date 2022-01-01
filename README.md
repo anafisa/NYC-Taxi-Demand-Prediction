@@ -32,7 +32,7 @@ As for the model, it can be a linear regression or SARIMAX with exog features. T
 
 <img width="800" alt="Снимок экрана 2021-07-09 в 00 39 15" src="https://user-images.githubusercontent.com/30799388/124994202-29e6e200-e04e-11eb-8ed8-502e0187ac80.png">
 
-As we work with geo data, we need visualize forecasts on the map. It can be static or dynamic visualization.
+As we work with geo data, we may visualize forecasts on the map. It can be static or dynamic visualization.
 
 Static visualization of NYC districts:
 
