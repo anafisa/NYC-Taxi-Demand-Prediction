@@ -5,7 +5,7 @@ The primary objective of this project is to build a Real-Time Taxi Demand Predic
 <img width="602" alt="Снимок экрана 2021-12-29 в 14 54 14" src="https://user-images.githubusercontent.com/30799388/147659748-da22f728-3dfe-4ace-9c50-22fe6af041c0.png">
 
 
-Data: [nyc.gov](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The yellow taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
+The [yellow taxi trip records](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
 
 The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). The whole dataset consists of approximately 30 million observations. 
 
