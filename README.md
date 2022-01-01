@@ -19,14 +19,14 @@ __Project Structure:__
 6. [Model enhancement](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/06_new_features_forming.ipynb)
 
 
-The main difficulty of the project is the fact that every district of NYC has its own structure, that's why we need to cluster districts with the same dynamic in groups. Then for each group buid unique model with optimal parameters and forecast the demand.
+The main difficulty of the project is the fact that every district of NYC has its own structure, that's why we need to cluster districts with the same dynamic in groups. Then for each group we build unique model with optimal parameters and forecast the demand.
 
 <img width="800" alt="Снимок экрана 2021-07-09 в 00 34 18" src="https://user-images.githubusercontent.com/30799388/124993803-8b5a8100-e04d-11eb-8c82-87ff549e7203.png">
 
 <img width="800" alt="Снимок экрана 2021-07-09 в 00 34 34" src="https://user-images.githubusercontent.com/30799388/124993832-957c7f80-e04d-11eb-9e43-331123466657.png">
 
 
-We should remember that the time series have complex seasonability 24 and 168 lags, so we need extra features to model seasonality correctly. In this case we may use fourier series or dummy variables.
+We should remember that the time series have complex seasonability with 24 and 168 lags, so we need to add extra features to the model. In this case we may use fourier series or dummy variables.
 
 As for the model, it can be a linear regression or SARIMAX with exog features. The results of models are [here](https://github.com/anafisa/NYC-Taxi-Demand-Prediction/blob/main/03_complex_seasonal_forecasting.ipynb).
 
